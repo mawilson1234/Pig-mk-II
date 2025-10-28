@@ -1,7 +1,7 @@
 PennController.ResetPrefix(null) // Shorten command names (keep this line here)
 DebugOff()
 
-// var counterOverride = 0
+var counterOverride = 0 // up to 16
 
 var centered_justified_style = {
     "text-align": "justify", 
