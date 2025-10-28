@@ -1,0 +1,5 @@
+item,sentence,question,left_answer,right_answer,correct_answer
+prac,"At the ball, the prince waltzed and slowly smiled at the princess.",Who smiled?,the princess,the prince,the prince
+prac,"Without warning, Geoffrey turned and screamed at the waiter who had embarrassed him.",Who embarrassed someone?,the waiter,the maitre d',the waiter
+prac,The trainee talking to the barista lazily made a latte and didn't even try to make a design on top.,Who made a latte?,the trainee,the barista,the trainee
+prac,Madame de Plessy sat up all night worrying about her son who was on the front lines.,When did Madame de Plessy worry?,during the day,at night,at night

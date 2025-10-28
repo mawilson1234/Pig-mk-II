@@ -1,0 +1,37 @@
+group,item,sentence,question,left_answer,right_answer,correct_answer,sentence_voice,structure
+A,69,The trainer from the obedience school that disciplined the dogs was quick to get good results.,What did the trainer achieve?,good results,improved behavior,good results,active,non-presentational
+B,69,The trainer from the obedience school that disciplined the dogs was quick to get good results.,What did the trainer achieve?,improved behavior,good results,good results,active,non-presentational
+A,70,The manager at the movie theater that called in the workers was unable to make a good schedule.,What couldn't the manager make?,good decisions,a good schedule,a good schedule,active,non-presentational
+B,70,The manager at the movie theater that called in the workers was unable to make a good schedule.,What couldn't the manager make?,a good schedule,good decisions,a good schedule,active,non-presentational
+A,71,The therapist with a calm voice that met her client at home was kind and courteous.,What did the therapist have?,a calm voice,a soothing presence,a calm voice,active,non-presentational
+B,71,The therapist with a calm voice that met her client at home was kind and courteous.,What did the therapist have?,a soothing presence,a calm voice,a calm voice,active,non-presentational
+A,72,The baker from the donut shop that greeted the loyal customer was unable to come to work that day.,Where was the baker from?,the pastry store,the donut shop,the donut shop,active,non-presentational
+B,72,The baker from the donut shop that greeted the loyal customer was unable to come to work that day.,Where was the baker from?,the donut shop,the pastry store,the donut shop,active,non-presentational
+A,73,The singer from the talent agency that was tripped by the dancer was fine again after a few days.,How long did the singer take to get better?,a few days,a couple of weeks,a few days,passive,non-presentational
+B,73,The singer from the talent agency that was tripped by the dancer was fine again after a few days.,How long did the singer take to get better?,a couple of weeks,a few days,a few days,passive,non-presentational
+A,74,The designer of great international reknown that was requested by the model was eager to help.,How did the designer feel?,unwilling to assist,eager to help,eager to help,passive,non-presentational
+B,74,The designer of great international reknown that was requested by the model was eager to help.,How did the designer feel?,eager to help,unwilling to assist,eager to help,passive,non-presentational
+A,75,The employee from the large corporation that was fired by the CEO leaked their secrets to the press.,What did the employee do?,leak secrets,steal money,leak secrets,passive,non-presentational
+B,75,The employee from the large corporation that was fired by the CEO leaked their secrets to the press.,What did the employee do?,steal money,leak secrets,leak secrets,passive,non-presentational
+A,76,The sailor of the huge ship that was raided by the pirate escaped on a dinghy.,How did the sailor escape?,a hidden passage,on a dinghy,on a dinghy,passive,non-presentational
+B,76,The sailor of the huge ship that was raided by the pirate escaped on a dinghy.,How did the sailor escape?,on a dinghy,a hidden passage,on a dinghy,passive,non-presentational
+A,77,The novelist writing a new book that contacted the editor was able to secure an advance.,What was the novelist writing?,a new book,a screenplay,a new book,active,non-presentational
+B,77,The novelist writing a new book that contacted the editor was able to secure an advance.,What was the novelist writing?,a screenplay,a new book,a new book,active,non-presentational
+A,78,The bird watcher in the old park that observed the owls had her pictures featured in magazines.,What was observed?,hawks,owls,owls,active,non-presentational
+B,78,The bird watcher in the old park that observed the owls had her pictures featured in magazines.,What was observed?,owls,hawks,owls,active,non-presentational
+A,79,The bunny with a fluffy tail that hopped around in the garden was looking for carrots to eat.,What did the bunny have?,a fluffy tail,white fur,a fluffy tail,active,non-presentational
+B,79,The bunny with a fluffy tail that hopped around in the garden was looking for carrots to eat.,What did the bunny have?,white fur,a fluffy tail,a fluffy tail,active,non-presentational
+A,80,The astronaut from the space program that saw the engineer was friendly and unassuming.,How was the astronaut?,cheerful and pleasant,friendly and unassuming,friendly and unassuming,active,non-presentational
+B,80,The astronaut from the space program that saw the engineer was friendly and unassuming.,How was the astronaut?,friendly and unassuming,cheerful and pleasant,friendly and unassuming,active,non-presentational
+A,81,The thief of the precious gemstones that was investigated by the detective had stashed them in a safehouse.,Where were the gemstones?,in a safehouse,in a lockbox,in a safehouse,passive,non-presentational
+B,81,The thief of the precious gemstones that was investigated by the detective had stashed them in a safehouse.,Where were the gemstones?,in a lockbox,in a safehouse,in a safehouse,passive,non-presentational
+A,82,The elephant at the big circus that was ridden by the clown was a delight to all the children.,Who rode something?,the children,the clown,the clown,passive,non-presentational
+B,82,The elephant at the big circus that was ridden by the clown was a delight to all the children.,Who rode something?,the clown,the children,the clown,passive,non-presentational
+A,83,The pianist with very quick hands that was instructed by the composer had great improvisational abilities.,Who could improvise well?,the pianist,the composer,the pianist,passive,non-presentational
+B,83,The pianist with very quick hands that was instructed by the composer had great improvisational abilities.,Who could improvise well?,the composer,the pianist,the pianist,passive,non-presentational
+A,84,The zookeeper from the big city that was taught about flowers by the botanist was a very quick learner.,Who learned quickly?,the botanist,the zookeeper,the zookeeper,passive,non-presentational
+B,84,The zookeeper from the big city that was taught about flowers by the botanist was a very quick learner.,Who learned quickly?,the zookeeper,the botanist,the zookeeper,passive,non-presentational
+A,85,The gambler on a winning streak that placed a large bet on black was nervous with anticipation.,What did the gambler bet on?,black,red,black,active,non-presentational
+B,85,The gambler on a winning streak that placed a large bet on black was nervous with anticipation.,What did the gambler bet on?,red,black,black,active,non-presentational
+A,86,The architect from the design firm that was joined by the inspector was confident he would pass.,How did the architect feel?,anxious,confident,confident,passive,non-presentational
+B,86,The architect from the design firm that was joined by the inspector was confident he would pass.,How did the architect feel?,confident,anxious,confident,passive,non-presentational
