@@ -47,7 +47,6 @@ SetCounter('setcounter')
 Sequence(
     'setcounter', 
     'consent', 
-    'background', 
     'instructions_1', 
     'instructions_2', 
     'instructions_3',
@@ -110,7 +109,6 @@ var instructions = label => newTrial(label,
         )
 ).setOption('countsForProgressBar', false)
 
-instructions('background')
 instructions('instructions_1')
 instructions('instructions_2')
 instructions('instructions_3')
