@@ -1,1 +1,4 @@
-consent/
+*.aux
+*.log
+*.synctex.gz
+*.tex
